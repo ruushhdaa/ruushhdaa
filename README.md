@@ -2,7 +2,7 @@
   <img src="https://i.imgflip.com/ap4q0r.gif" width="100%"/>
 </div>
 
-##🕯️ Rushda Jagtap
+## 🕯️ Rushda Jagtap
 
 B.Tech CSE (Data Science) @ MITAOE, Pune — Year 1 of 4.
 
@@ -15,7 +15,7 @@ detect threats before they spread, and ask questions most dashboards don't think
 TrustSentinel knows *your* normal, not just the average.
 SHURI runs on a laptop — no cloud, no dependencies, no excuses.
 
-Also: books, patterns, and the slow work of going somewhere worth arriving. 
+Also: books, patterns, and the slow work of going somewhere worth arriving.
 
 ## 🔗 Socials
 
@@ -40,5 +40,5 @@ Also: books, patterns, and the slow work of going somewhere worth arriving.
 
 ## 📊 GitHub Stats
 
-![Rushda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruushhdaa&theme=dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruushhdaa&theme=dark&hide_border=true&layout=compact)
+![Rushda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruushhdaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruushhdaa&theme=dark&hide_border=true&layout=compact&langs_count=8)
