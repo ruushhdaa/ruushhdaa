@@ -40,6 +40,6 @@ Also: books, patterns, and the slow work of going somewhere worth arriving.
 
 ## 📊 GitHub Stats
 
-![Rushda's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=ruushhdaa&cc=000&tc=fff&ic=fff&bc=000)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ruushhdaa&theme=dark&hide_border=true)](https://github.com/ruushhdaa)
 
 ![Top Languages](https://github-readme-stats-ruddy-ten.vercel.app/api/top-langs/?username=ruushhdaa&layout=compact&theme=dark&hide_border=true)
