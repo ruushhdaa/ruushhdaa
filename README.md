@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgflip.com/ap4q0r.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/banner.gif" width="100%"/>
 </div>
 
 ## 🕯️ Rushda Jagtap
