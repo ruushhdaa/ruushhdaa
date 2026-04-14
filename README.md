@@ -40,5 +40,6 @@ Also: books, patterns, and the slow work of going somewhere worth arriving.
 
 ## 📊 GitHub Stats
 
-![Rushda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruushhdaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruushhdaa&theme=dark&hide_border=true&layout=compact&langs_count=8)
+![Rushda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruushhdaa&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruushhdaa&layout=compact&theme=dark&hide_border=true)
