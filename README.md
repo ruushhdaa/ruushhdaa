@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/banner.gif" width="100%"/>
 </div>
 
-## 🕯️ Rushda Jagtap
+## 🕯️ Rushda
 
 B.Tech CSE (Data Science) @ MITAOE, Pune — Year 1 of 4.
 
