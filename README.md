@@ -4,18 +4,20 @@
 
 ## 🕯️ Rushda
 
-B.Tech CSE (Data Science) @ MITAOE, Pune — Year 1 of 4.
+B.Tech CSE (Data Science) @ MITAOE, Pune — Year 2 of 4.
 
 I work at the edge where data science meets cybersecurity.
-Not two fields. One craft. I call it Cyber Adversarial Analytics.
+One craft; not two fields. I call it Cyber Adversarial Analytics.
 
 Right now I'm building systems that catch fraud before it lands,
 detect threats before they spread, and ask questions most dashboards don't think to ask.
 
-TrustSentinel knows *your* normal, not just the average.
-SHURI runs on a laptop — no cloud, no dependencies, no excuses.
+TrustSentinel knows YOUR normal, not just the average.
+SHURI runs on a laptop with no cloud, no dependencies and no excuses.
+Consider this the reconnaissance phase. The more mesmerising, 
+'impossible' projects are currently being stress-tested in the lab (unmapped territory).
 
-Also: books, patterns, and the slow work of going somewhere worth arriving.
+Also, books, patterns and slow journeys towards destinations worth reaching.
 
 ## 🔗 Socials
 
