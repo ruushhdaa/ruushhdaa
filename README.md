@@ -46,5 +46,5 @@ Also, books, patterns and slow journeys towards destinations worth reaching.
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ruushhdaa&theme=dark&hide_border=true)](https://github.com/ruushhdaa)
-
+ 
 ![Top Languages](https://github-readme-stats-ruddy-ten.vercel.app/api/top-langs/?username=ruushhdaa&layout=compact&theme=dark&hide_border=true)
