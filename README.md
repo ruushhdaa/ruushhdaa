@@ -2,25 +2,15 @@
   <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/banner.gif" width="100%"/>
 </div>
 
-## 🕯️ Rushda
+## 🕯️ [Rushda](https://ruushhdaa.github.io/digital-portfolio/)
 
-B.Tech CSE (Data Science) @ MITAOE, Pune — Year 2 of 4.
+B.Tech CSE (Data Science) @ MITAOE, Pune — Year 2 of 4
 
-I work at the edge where data science meets cybersecurity.
+I work at the edge where data science meets cybersecurity. To me, they are not two separate fields—they are one single craft. I call it **Cyber Adversarial Analytics.** My focus is on building adaptive systems that map what "normal" looks like, allowing them to catch anomalies before a traditional rulebook ever could.
 
-One craft; not two fields. I call it Cyber Adversarial Analytics.
+I aim to engineer defenses that look for the patterns and ask the questions most standard dashboards miss. I prioritize real-world utility, think in patterns, and spend my time exploring the *less-mapped* territories of machine learning security.
 
-Right now I'm building systems that catch fraud before it lands,
-detect threats before they spread, and ask questions most dashboards don't think to ask.
-
-TrustSentinel knows YOUR normal, not just the average.
-
-SHURI runs on a laptop with no cloud, no dependencies and no excuses.
-
-Consider this the reconnaissance phase. The more mesmerising, 
-'impossible' projects are currently being stress-tested in the lab (unmapped territory).
-
-Also, books, patterns and slow journeys towards destinations worth reaching.
+Outside of tech, I am driven by the same force to focus on patterns—whether I am reading, sketching, or out in nature.
 
 ## 🔗 Socials
 
