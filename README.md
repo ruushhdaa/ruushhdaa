@@ -15,7 +15,9 @@ Outside of tech, I am driven by the same force to focus on patterns—whether I 
 ## 🔗 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushda-jagtap/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rushdajagtap4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ruushhdaa)
+[![Resume](https://img.shields.io/badge/Resume-View-critical?style=flat&logo=googledrive&logoColor=white)](https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/Rushda_Jagtap_Resume.pdf)
 
 ## 🛠️ Tech Stack
 
