@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/banner.gif" width="100%"/>
 </div>
 
+<br/>
+
 ## 🕯️ [Rushda](https://ruushhdaa.github.io/digital-portfolio/)
 
 B.Tech CSE (Data Science) @ MITAOE, Pune — Year 2 of 4
@@ -12,14 +14,28 @@ I aim to engineer defenses that look for the patterns and ask the questions most
 
 Outside of tech, I am driven by the same force to focus on patterns—whether I am reading, sketching, or out in nature.
 
+<br/>
+
 ## 🔗 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushda-jagtap/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rushdajagtap4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ruushhdaa)
-[![Resume](https://img.shields.io/badge/Resume-View-critical?style=flat&logo=googledrive&logoColor=white)](https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/Rushda_Jagtap_Resume.pdf)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushda-jagtap/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushdajagtap4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruushhdaa)
+[![Resume](https://img.shields.io/badge/Resume-View-%23FF4B4B?style=for-the-badge&logo=googledrive&logoColor=white)](https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/Rushda_Jagtap_Resume.pdf)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruushhdaa&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -35,8 +51,24 @@ Outside of tech, I am driven by the same force to focus on patterns—whether I 
 ![SHAP](https://img.shields.io/badge/SHAP-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
 
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ruushhdaa&theme=dark&hide_border=true)](https://github.com/ruushhdaa)
- 
+
 ![Top Languages](https://github-readme-stats-ruddy-ten.vercel.app/api/top-langs/?username=ruushhdaa&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
