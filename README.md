@@ -61,8 +61,7 @@ Outside of tech, I am driven by the same force to focus on patterns—whether I 
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ruushhdaa&theme=dark&hide_border=true)](https://github.com/ruushhdaa)
 
-![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ruushhdaa&layout=compact&theme=dark&hide_border=true)
-
+![Top Languages](https://https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=ruushhdaa&layout=compact&theme=dark&hide_border=true)
 </div>
 
 <br/>
