@@ -70,11 +70,11 @@ In the non-tech space I adore reading, sketching and the nature outdoors.
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/github/0-profile-details.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/github/1-repos-per-language.svg" width="32%"/>
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/github/2-most-commit-language.svg" width="32%"/>
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/github/3-stats.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/3-stats.svg" width="32%"/>
 </div>
