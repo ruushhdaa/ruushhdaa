@@ -61,7 +61,6 @@ In the non-tech space I adore reading, sketching and the nature outdoors.
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ruushhdaa&theme=dark&hide_border=true)](https://github.com/ruushhdaa)
 
-![Top Languages](https://github-readme-stats-two-jet.vercel.app/api/top-langs/?username=ruushhdaa&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -70,11 +69,11 @@ In the non-tech space I adore reading, sketching and the nature outdoors.
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="32%"/>
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="32%"/>
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/3-stats.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/github_dark/3-stats.svg" width="32%"/>
 </div>
