@@ -6,13 +6,13 @@
 
 ## 🕯️ [Rushda](https://ruushhdaa.github.io/digital-portfolio/)
 
-B.Tech CSE (Data Science) @ MITAOE, Pune — Year 2 of 4
+B.Tech CSE (Data Science) @ MITAOE, Pune (2/4 years)
 
-I work at the edge where data science meets cybersecurity. To me, they are not two separate fields—they are one single craft. I call it **Cyber Adversarial Analytics.** My focus is on building adaptive systems that map what "normal" looks like, allowing them to catch anomalies before a traditional rulebook ever could.
+My focus is on cyber adversarial analytics: the convergence of data science and cybersecurity, where both are not domains in themselves but rather an art. I create adaptive solutions that understand what is normal to detect what rules won't ever be able to.
 
-I aim to engineer defenses that look for the patterns and ask the questions most standard dashboards miss. I prioritize real-world utility, think in patterns, and spend my time exploring the *less-mapped* territories of machine learning security.
+Utility is more important than benchmarking for me and the majority of my curiosity goes into the unexplored realms of machine learning security.
 
-Outside of tech, I am driven by the same force to focus on patterns—whether I am reading, sketching, or out in nature.
+In the non-tech space I adore reading, sketching and the nature outdoors.
 
 <br/>
 
