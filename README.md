@@ -70,11 +70,11 @@ In the non-tech space I adore reading, sketching and the nature outdoors.
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/profile-summary-card-output/profile-summary-card-output/dark/profile-details.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/output/profile-summary-card-output/dark/profile-details.svg" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/profile-summary-card-output/profile-summary-card-output/dark/repos-per-language.svg" width="32%"/>
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/profile-summary-card-output/profile-summary-card-output/dark/most-commit-language.svg" width="32%"/>
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/profile-summary-card-output/profile-summary-card-output/dark/stats.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/output/profile-summary-card-output/dark/repos-per-language.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/output/profile-summary-card-output/dark/most-commit-language.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/output/profile-summary-card-output/dark/stats.svg" width="32%"/>
 </div>
