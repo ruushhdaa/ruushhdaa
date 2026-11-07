@@ -81,19 +81,50 @@ In the non-tech space I adore reading, sketching and the nature outdoors.
 
 <br/>
 
+
 ## 📈 Activity
 
+<!-- Contribution Activity Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="32%"/>
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="32%"/>
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/3-stats.svg" width="32%"/>
+  <img
+    src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/0-profile-details.svg"
+    width="100%"
+    alt="Contribution Activity"
+  />
 </div>
 
 <br/>
+
+<!-- Language Distribution + GitHub Stats -->
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/1-repos-per-language.svg"
+    width="32%"
+    alt="Top Languages by Repository"
+  />
+  <img
+    src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/2-most-commit-language.svg"
+    width="32%"
+    alt="Top Languages by Commit"
+  />
+  <img
+    src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/3-stats.svg"
+    width="32%"
+    alt="GitHub Statistics"
+  />
+</div>
+
+<br/>
+
+<!-- Productive Coding Hours -->
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/4-productive-time.svg"
+    width="60%"
+    alt="Productive Coding Time"
+  />
+</div>
+
 
 ---
 
