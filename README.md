@@ -119,7 +119,7 @@ In the non-tech space I adore reading, sketching and the nature outdoors.
 <!-- Productive Coding Hours -->
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/profile-summary-card-output/dracula/4-productive-time.svg"
+    src="profile-summary-card-output/dracula/4-productive-time.svg"
     width="60%"
     alt="Productive Coding Time"
   />
