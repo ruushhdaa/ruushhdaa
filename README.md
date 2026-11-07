@@ -253,9 +253,11 @@ Guides customers from plain-language goal to completion across insurance claims 
   />
 </p>
 
-## 🕹️ Contribution Arcade
+
+## 🚀 Contribution Arcade: Galaga
 
 <div align="center">
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -265,14 +267,15 @@ Guides customers from plain-language goal to completion across insurance claims 
   <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/output/galaga-contribution-graph.svg"
-   />
+    />
 
   <img
       src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/output/galaga-contribution-graph-dark.svg"
       width="100%"
       alt="Galaga Contribution Arcade"
-  />
+    />
   </picture>
+</p>
 </div>
 
 ---
