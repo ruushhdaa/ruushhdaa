@@ -255,7 +255,7 @@ Guides customers from plain-language goal to completion across insurance claims 
 
 ## 🕹️ Contribution Arcade
 
-<p align="center">
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -273,7 +273,7 @@ Guides customers from plain-language goal to completion across insurance claims 
       alt="Galaga Contribution Arcade"
   />
   </picture>
-</p>
+</div>
 
 ---
 
