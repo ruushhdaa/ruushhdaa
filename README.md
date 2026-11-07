@@ -247,7 +247,7 @@ Guides customers from plain-language goal to completion across insurance claims 
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-night-view.svg"
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
     width="100%"
     alt="3D Contribution Landscape"
   />
