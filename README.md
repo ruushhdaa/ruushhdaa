@@ -245,19 +245,35 @@ Guides customers from plain-language goal to completion across insurance claims 
 
 ## 🗺️ 3D Contribution Landscape
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
-<br/>
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-view.svg"
+    width="100%"
+    alt="3D Contribution Landscape"
+  />
+</p>
 
 ## 🕹️ Contribution Arcade
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/main/galaga-contribution.gif" width="100%"/>
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/output/galaga-contribution-graph-dark.svg"
+    />
 
-<br/>
+  <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/output/galaga-contribution-graph.svg"
+   />
+
+  <img
+      src="https://raw.githubusercontent.com/ruushhdaa/ruushhdaa/output/galaga-contribution-graph-dark.svg"
+      width="100%"
+      alt="Galaga Contribution Arcade"
+  />
+  </picture>
+</p>
 
 ---
 
